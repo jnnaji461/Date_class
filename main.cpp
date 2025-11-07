@@ -1,8 +1,8 @@
 /*
-Program name:
-Author:
-Date:
-Purpose:
+Program name: Date_class.cpp
+Author: Judith Nnaji
+Date: 11/07/2025
+Purpose: The program includes a Date class that manages and checks the values of month, day, and year. 
 */
 
 #include <iostream>
@@ -187,3 +187,4 @@ int main() {
     delete userDate;
     return 0;
 }
+
